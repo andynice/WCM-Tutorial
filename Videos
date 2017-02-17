@@ -1,0 +1,105 @@
+Videos
+- V1
+	- IBM products
+		WAS
+		Portal
+		WCM
+		Connections
+		IBM products interaction
+		
+(PORTAL, parte teórica)
+- V2
+	- In Portal
+		cómo iniciar portal
+		Portal URL
+		(sólo explicación)Portal Pages creation, set layouts, add portlets
+		ejemplo de welcome de portal
+		Libraries creation
+	
+(sólo PREVIEW de WCM, sin portal)
+- V3
+	- In WCM
+		- Libraries
+		- AT
+			-properties
+			-element types
+		- PT
+- V4
+	- In WCM, 
+			- Site Areas
+			- Content creation
+			- PT/AT association
+			- Preview content (without portal)
+			- usar default WF, explicar después
+
+- V5
+	- In WCM
+		- Categories
+		- WF
+
+- V6
+	- In WCM
+		Component types
+		Intro to HTML Cmpnt
+		Menu Cmpnt
+
+- V7
+	- In WCM
+		Navigator
+		PZN Cmpnt
+
+
+- V8 (integración WCM con portal, mostrar contenido en portal)
+	referencia al video 2, y crear portal page ...
+
+- V9 (advanced portal)
+	permisos
+	usuarios
+	portales virtuales
+	syndication
+
+- V10
+	proyectos
+	roles de usuario en contenido
+
+- V11
+mover
+copiar aplicar AT
+filtros búsqueda
+configuration y shared settings
+visualizar librearías, # resultados, rich text editor
+
+
+
+
+
+
+
+EXTRA
+
+BLUEPRINT
+-V10 (walkthrough)
+	- Blueprint
+	- Libraries organization
+	- ATs (Landing Page)
+	- WF's (trad, cat req)
+	- MLS ()
+	- LESS (dejar link con sintaxis de less)
+
+
+material
+VM con 2 VP, uno limpio y otro con el sitio de WPS Beneficiaries (Home, FAQ's)
+
+fuera de scope	
+-V9
+	- WCM (XWidget)
+
+
+
+dejarlo en la wiki de los nuevos
+
+
+
+
+
+
